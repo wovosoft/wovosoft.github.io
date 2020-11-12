@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{276:function(e,n,t){"use strict";t.r(n);var c=t(58),component=Object(c.a)({},(function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("This is Service Page")])}),[],!1,null,null,null);n.default=component.exports}}]);
