@@ -1,6 +1,5 @@
 <template>
   <div>
-    JUST TEST LOCAL BUILDS
     <div class="home-banner">
       <div class="text-center">
         <h1 class="text-white">
