@@ -47,6 +47,7 @@
             <b-nav-item href="#">About</b-nav-item>
             <b-nav-item href="#">Blog</b-nav-item>
             <b-nav-item href="#">Contact</b-nav-item>
+            <b-nav-item href="https://wovoui.netlify.app" target="_balnk">wovoui</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
       </b-container>
